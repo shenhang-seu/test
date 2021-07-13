@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-	cout<<"666"<<endl;
+	cout<<"888"<<endl;
 	return 0;
 }
